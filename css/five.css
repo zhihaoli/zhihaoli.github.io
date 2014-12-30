@@ -352,7 +352,7 @@ header .intro-text .intro-heading {
 	font-size: 40px;
 	font-style: italic;
 	line-height: 40px;
-	text-shadow: -15px 30px 7px #c2c2c2;
+	text-shadow: none;
     }
     header .intro-text .intro-heading {
         margin-bottom: 50px;
@@ -361,7 +361,7 @@ header .intro-text .intro-heading {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
-		text-shadow: -15px 30px 7px #c2c2c2;
+		text-shadow: none;
     }
 }
 
