@@ -134,7 +134,7 @@ fieldset[disabled] .btn-primary.active {
 	border: 0px solid #f1c633;
     border-radius: 10px;
     color: #e2e2e2;
-	box-shadow: -15px 30px 7px #c2c2c2;
+	box-shadow: none;
 	border: 1px solid #eee;
 }
 .btn-xl:hover,
