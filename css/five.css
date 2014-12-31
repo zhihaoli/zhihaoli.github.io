@@ -79,14 +79,17 @@ h5 {
     background-color: #222;
 }
 
+.bg-yellow {
+    background-image: url(../img/polygon-yellow.jpg);
+}
+
 .btn-primary {
     border-color: #fed136;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
     color: #fff;
-    /*background-color: #fed136;*/
-    background-image: url(../img/polygon-yellow.jpg);
+    background-color: #fed136;
 
 }
 
