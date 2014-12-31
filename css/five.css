@@ -624,6 +624,25 @@ footer span.copyright a:hover {
 	text-decoration: none;
 }
 
+ul.resume-button{
+    margin-bottom: 0;
+}
+
+ul.resume-button li a {
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    outline: 0;
+    color: #fff;
+    background-color: #c4c4c4;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+
 ul.social-buttons {
     margin-bottom: 0;
 }
