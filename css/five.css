@@ -643,6 +643,12 @@ ul.resume-button li a {
     transition: all .3s;
 }
 
+ul.resume-button li a:hover,
+ul.resume-button li a:focus,
+ul.resume-button li a:active {
+    background-color: #fed136;
+}
+
 ul.social-buttons {
     margin-bottom: 0;
 }
